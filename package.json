@@ -67,5 +67,8 @@
                 "git add"
             ]
         }
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
