@@ -1,5 +1,5 @@
 {
-    "name": "reconnecting-websocket",
+    "name": "@strong-roots-capital/reconnecting-websocket",
     "version": "4.2.0",
     "description": "Reconnecting WebSocket",
     "main": "./dist/reconnecting-websocket-cjs.js",
