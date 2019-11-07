@@ -1,6 +1,6 @@
 {
     "name": "@strong-roots-capital/reconnecting-websocket",
-    "version": "4.2.0",
+    "version": "4.2.1",
     "description": "Reconnecting WebSocket",
     "main": "./dist/reconnecting-websocket-cjs.js",
     "module": "./dist/reconnecting-websocket-mjs.js",
